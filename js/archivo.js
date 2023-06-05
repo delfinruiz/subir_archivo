@@ -2,6 +2,9 @@ $(document).ready(function () {
 
 
 $('#formarchivo').submit(function (e) {
+
+
+  
     e.preventDefault();
       
       $.ajax({
