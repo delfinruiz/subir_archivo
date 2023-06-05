@@ -14,7 +14,7 @@
     <form method="post" id="formarchivo" enctype="multipart/form-data">
 
         <input type="text" name="nombre" value="prueba nombre">
-        <input type="file" name="archivo">
+        <input type="file" name="archivo" class="subirimagen">
         <input type="submit" value="Enviar">
 
     </form>
